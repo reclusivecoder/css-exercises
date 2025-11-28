@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.click {
+    font-size:28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    }
+
+.click.left {
+    background-color: black;
+    color: white;
+}
+
+.click.right {
+    background-color: yellow;
+}/* Add CSS Styling */
